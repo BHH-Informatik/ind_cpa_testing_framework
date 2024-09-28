@@ -1,0 +1,6 @@
+gymnasium==0.29.1
+ipython==8.27.0
+# numpy==2.1.1
+progressbar==2.4
+pycryptodome==3.20.0
+# tensorflow==2.15.0

@@ -1,0 +1,1 @@
+caesar,1614089245.481319,"No_Config,String 8 lowercase",4096,32,250,mean_squared_error,76,CT_128sg-256sg-256sg-128sg,logs/caesar_1614089245.481319-CT_128sg-256sg-256sg-128sg,val_loss:0.0010537067402614177;val_bitwise_loss:0.0;val_full_loss:0.0;loss:0.0007434528197918632;bitwise_loss:0.0;full_loss:0.0;

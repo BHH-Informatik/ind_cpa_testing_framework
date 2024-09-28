@@ -1,1 +1,5 @@
-# ind_cpa_testing_framework
+# algorithm-tester-framework
+
+`docker build -t <imagename> <path/to/dockerfile> --load`
+
+`docker run <imagename>`
