@@ -8,4 +8,5 @@ This directory contains the initial poc version of the reinforcement learning ba
 
 It can be run using:
 `docker build -t <imagename> <path/to/dockerfile> --load`
+
 `docker run -d <imagename>`
